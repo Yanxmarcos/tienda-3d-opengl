@@ -46,6 +46,4 @@ CMake descarga FreeGLUT 3.8.0 y lo enlaza estáticamente. Ejecuta el último com
 
 ## Autoría y recursos
 
-**Yanxmarcos** desarrolló el software de la tienda e integró la escena, la navegación, la animación y las interacciones.
-
 El proyecto utiliza modelos y texturas disponibles gratuitamente en Internet. Cada recurso de terceros conserva las condiciones de su licencia original. El lector OBJ conserva el crédito a Nate Robins y el cargador TGA referencia la lección 33 de NeHe.
